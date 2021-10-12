@@ -1,0 +1,8 @@
+Ce Projet a été réalisé par Arthur PIARD.
+
+Il s'agit du projet demandé dans le module d'Info 2A 2017-2018.
+
+Le code en soi est relativement basique, un affichage simple est généré, de nombreuses vérifications des entrées utilisateur sont présentes. On commence avec un nombre de joueurs compris entre 2 et 4, choisi par l'utilisateur. La majorité, si ce n'est toute, des consignes du sujet ont été respectées. La Javadoc de mon projet est dans le dossier contenant le projet. Des bugs persistent mais rien qui gène le fonctionnement du jeu.
+
+Cordialement,
+PIARD Arthur

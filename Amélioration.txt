@@ -1,0 +1,22 @@
+Améliorations faites :
+
+- Possibilité de changer le nombre de case, ajout à foison de case de tous type, changer les positions des cases avec action, le jeu est modulable.
+
+- Possibilité d'ajouter ou supprimer des joueurs à la fin de la partie de base (non fait au départ)
+
+- Possibilité de choisir le nombre de joueur au départ (2,3 ou 4) (non fait au départ)
+
+- Si nombre de joueur < 2 ou > 4, normalement System.exit(0), remplacé par :
+  Si nombre de joueur < 2 , possibilité de faire une partie avec 2 joueurs ou bien quitter le jeu.
+  Si nombre de joueur > 4 , possibilité de faire une partie avec 4 joueurs ou bien quitter le jeu.
+
+- Correction du bug de l'échange de joueurs si le joueur revient à la case de départ
+(ex : case 60; il fait 6, il arrive/revient case 60 et l'algo de changement de joueur se lancait sur le même joueur) 
+
+Améliorations possibles :
+
+- Optimiser le code
+
+- Optimiser l'affichage
+
+- Corriger des bugs, notamment sur l'échange de joueurs;
